@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class UserTest {
-    public static final String CORRECT_LOGIN = "login";
+    public static final String CORRECT_LOGIN = "user";
     public static final String CORRECT_EMAIL = "email@mail.ru";
     public static final String INCORRECT_EMAIL = "email.ru";
 
